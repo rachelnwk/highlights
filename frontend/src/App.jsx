@@ -1,29 +1,3 @@
-// ============================================
-// SETUP INSTRUCTIONS
-// ============================================
-/*
-1. Create React app:
-   npx create-react-app highlight-reel-frontend
-   cd highlight-reel-frontend
-
-2. Install dependencies:
-   npm install axios lucide-react
-
-3. Replace src/App.js with this code
-
-4. Start React app:
-   npm start
-   (Runs on http://localhost:3000)
-
-5. Make sure backend is running:
-   python app.py
-   (Runs on http://localhost:5000)
-*/
-
-// ============================================
-// App.js - Main Application Component
-// ============================================
-
 import React, { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
 import { 
