@@ -1,0 +1,16 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.db
+backend/uploads/
+backend/clips/
+backend/reels/
+
+# YOLO models (auto-downloaded)
+backend/*.pt
+backend/yolov*.pt
+
+# Environment
+.env
+.DS_Store
