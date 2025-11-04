@@ -5,6 +5,8 @@ planning on having it only work with CUDA-enabled gpus
 
 need to figure out how to delete the local files
 
+Model: https://huggingface.co/keremberke/yolov8n-csgo-player-detection
+
 ## to first create backend and start it:
 cd backend
 
